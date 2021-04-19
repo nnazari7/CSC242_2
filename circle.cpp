@@ -15,5 +15,6 @@ int main()
 	//Calculate the area of the circle
 	double area = TWOPI * pow(radius, 2);
 	cout << "The area of a circle with radius " << radius << " is " << area << endl;
+	cout << "Finished";
 	return 0;
 }
